@@ -1,6 +1,6 @@
 ### Hi :wave:, I'm Mohamed El Kamhawi
 
-I think about software design as an essential part of software development, a good design can save efforts and cost. that is why I pay a close attention designing a solution, focusing on the purpose of the system being developed, creating systems that can grow gracefully.
+I am a software engineer with over a decade of experience in application development. worked with different tech stacks, designing solutions for different industries in the MEA region including banking, healthcare, and transportation.
 
 I speak Arabic, English, French, and Code 👨🏼‍💻
 
